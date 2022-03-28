@@ -18,6 +18,10 @@
 
 
 ## 仮想システムのテストケース
+### テスト対象について
+デプロイしました 
+https://kuro-kokko.github.io/202203_test/
+
 ### 仮想システムのイメージ
 ![image](https://user-images.githubusercontent.com/62488999/160264901-11844df5-0832-4c6f-b65d-e0e4549d47e2.png)
 
